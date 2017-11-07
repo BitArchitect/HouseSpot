@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import LineChart from 'react-linechart';
 
 class HouseGraph extends Component {
   constructor() {
